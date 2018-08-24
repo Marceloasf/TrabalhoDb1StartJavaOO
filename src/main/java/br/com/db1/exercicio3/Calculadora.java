@@ -1,6 +1,6 @@
 package br.com.db1.exercicio3;
 
-public class Calculadora {
+public class Calculadora{
 	
 	private Double resultado;
 	private Double primeiroValor;
